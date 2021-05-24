@@ -12,7 +12,7 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
 
 
 <a href="https://medium.com/@eakhil711" target="_blank">
-1. Graph Generative Networks (Part 1)
+- Graph Generative Networks (Part 1)
 </a> <br>
 <em>An Introduction to the models used for learning from Graphical Data</em>
 
