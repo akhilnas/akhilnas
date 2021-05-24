@@ -9,6 +9,11 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
 
 
 
+
+You can find me at
+
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=flat-square" alt="Medium" /> 
+
 <!---
 akhilnas/akhilnas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
