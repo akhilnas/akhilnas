@@ -10,13 +10,15 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
 
 ### My Articles published on Medium
 
+
+
 ### You can find me at
 
 <a href="https://medium.com/@eakhil711" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=flat-square" alt="Medium" /> 
 </a>
-<a href="https://medium.com/@eakhil711" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="Medium" /> 
+<a href="https://www.linkedin.com/in/akhil-nasser-3994a6116/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="linkedIn" /> 
 </a>
 <!---
 akhilnas/akhilnas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
