@@ -12,7 +12,7 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
 
 ### You can find me at
 
-<a href="https://medium.com/@eakhil711">
+<a href="https://medium.com/@eakhil711" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=flat-square" alt="Medium" /> 
 </a>
 <!---
