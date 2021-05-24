@@ -1,7 +1,7 @@
 # ![alt text](tenor.gif "Title") Hi! Nice to see you here.
 
 Welcome to my Github profile. \
-I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India :india:, currently living in Munich, Germany.
+I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India :india:, currently living in Munich, Germany ![flag](germany.png "German Flag").
 
 <!---
 akhilnas/akhilnas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
