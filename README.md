@@ -5,6 +5,10 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
 
 ### My Coding Languages and Tools
 
+<img src="https://img.shields.io/badge/-python-blue?logo=Python&logoColor=yellow&style=flat-square" alt="Python" width="15"/>.
+
+
+
 <!---
 akhilnas/akhilnas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
