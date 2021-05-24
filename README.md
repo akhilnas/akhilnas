@@ -6,7 +6,7 @@
 
 # ![alt text](tenor.gif "Title") Hi! Nice to see you here.
 
-Welcome to my Github profile. 
+Welcome to my Github profile. \
 I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India :india:, currently living in Munich, Germany.
 
 <!---
