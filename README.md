@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-# ![alt text](tenor.gif "Title") Hi! Nice to see you here.
+![alt text](tenor.gif "Title") # Hi! Nice to see you here.
 
 <!---
 akhilnas/akhilnas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
