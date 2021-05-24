@@ -5,7 +5,7 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
 
 ### My Coding Languages and Tools
 
-<img src="https://img.shields.io/badge/-python-blue?logo=Python&logoColor=yellow&style=flat-square" alt="Python" width="15"/>.
+<img src="https://img.shields.io/badge/-python-blue?logo=Python&logoColor=yellow&style=flat-square" alt="Python" />.
 
 
 
