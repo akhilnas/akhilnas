@@ -15,6 +15,11 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
   <li> Graph Generative Networks (Part 1) </li>
 </a> <br>
 <em>An Introduction to the models used for learning from Graphical Data</em>
+  
+<a href="https://medium.com/@eakhil711" target="_blank">
+  <li> An Introduction to Graph Attention Networks </li>
+</a> <br>
+<em> A Conceptual Explanation of Graph Attention Networks </em>
 </ul>
 
 
