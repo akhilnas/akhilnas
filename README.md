@@ -12,6 +12,12 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
 ### My Articles published on Medium
 
 <ul>
+ 
+<a href="https://medium.com/@eakhil711" target="_blank">
+  <li> Deploying AI models on AWS Elastic Beanstalk 
+</a> <br>
+<em> A Tutorial on AWS Elastic Beanstalk </em>
+</li>
   
 <a href="https://medium.com/@eakhil711" target="_blank">
   <li> Graph Generative Networks (Part 1) 
