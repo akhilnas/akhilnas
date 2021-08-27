@@ -13,7 +13,7 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
 
 <ul>
  
-<a href="https://medium.com/@eakhil711" target="_blank">
+<a href="https://medium.com/@eakhil711/deploying-ai-models-on-aws-elastic-beanstalk-e2163965b1f6" target="_blank">
   <li> Deploying AI models on AWS Elastic Beanstalk 
 </a> <br>
 <em> A Tutorial on AWS Elastic Beanstalk </em>
@@ -32,6 +32,11 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
 </li>
 
 </ul>
+
+### Medium articles
+| | |
+|:-------------------------:|:-------------------------:|
+|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/1">|||
 
 
 ### You can find me at
