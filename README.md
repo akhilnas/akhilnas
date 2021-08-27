@@ -34,8 +34,11 @@ I am Akhil Nasser, Machine Learning Engineer from Thiruvananthapuram, India <img
 </ul>
 
 ### Medium articles
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eakhil711/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eakhil711/0" alt="Recent Article 0"> 
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eakhil711/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eakhil711/1" alt="Recent Article 1"> 
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eakhil711/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eakhil711/2" alt="Recent Article 2"> 
 
 
